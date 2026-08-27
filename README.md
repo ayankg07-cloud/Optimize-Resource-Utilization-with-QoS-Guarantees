@@ -1,1 +1,1 @@
-# -Optimize-Resource-Utilization-with-QoS-Guarantees
+# Optimize-Resource-Utilization-with-QoS-Guarantees
