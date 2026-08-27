@@ -2,10 +2,7 @@
 
 This project implements the resource allocation optimization simulation described in the paper *"Learning to Optimize Resource Utilization with QoS Guarantees"* (IEEE INFOCOM 2025).
 
-## Current Status
-Currently completing **Day 1** of a 5-day implementation sprint. The focus of Day 1 was to build the simulation sandbox and three baseline allocation policies.
-
-### Completed Work (Day 1)
+### Completed Work 
 - **Simulation Sandbox:** Implemented a discrete-time simulation engine (`engine.py`) that models queue dynamics and completed workload tracking based on the paper's model.
 - **Workload Generator:** Created a bursty, adversarial-style synthetic workload generator (`workloads.py`) using Bernoulli and Uniform distributions to stress-test the allocation policies.
 - **Baselines (`baselines.py`):**
